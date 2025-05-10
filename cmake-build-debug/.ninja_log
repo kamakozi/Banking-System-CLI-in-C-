@@ -1,0 +1,11 @@
+# ninja log v6
+1	39	1746899998052568503	build.ninja	44856622c674abda
+215	242	1746899588554420428	skilltest	d23633ae4a2c0e53
+1	218	1746899999073683831	CMakeFiles/BankingSystem.dir/main.cpp.o	6a5633ab2e1a7b97
+1	255	1746899999074382872	CMakeFiles/BankingSystem.dir/BankWindow/Register/Register.cpp.o	a299f67b78aeb572
+2	256	1746899999074501330	CMakeFiles/BankingSystem.dir/BankWindow/Login/Login.cpp.o	25dd3c7e437f8ee
+1	259	1746899999074026206	CMakeFiles/BankingSystem.dir/BankWindow/User/User.cpp.o	5bb9c0526d7cd5c5
+1	263	1746899999073909623	CMakeFiles/BankingSystem.dir/BankWindow/MainBank.cpp.o	8c5ddc4caee54f51
+2	265	1746899999074708455	CMakeFiles/BankingSystem.dir/BankWindow/BankMainMenu/MainMenu.cpp.o	a21c59289d222df9
+2	276	1746899999075176537	CMakeFiles/BankingSystem.dir/BankWindow/BankMainMenu/FirstTimeLogin/FirstLogin.cpp.o	4ebbc7d4c9af9bee
+276	302	1746899999348814048	BankingSystem	1f3c787312a903d9
